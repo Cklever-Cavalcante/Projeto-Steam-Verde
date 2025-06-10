@@ -92,7 +92,7 @@ O Steam Verde é um mini-sistema web responsivo desenvolvido com PHP, PDO e Boot
 #### Acessando a Área Administrativa
 
 1. Faça login com uma conta de administrador:
-   - Email: admin@admin.com
+   - Email: admin@steamverde.com
    - Senha: admin123
 2. Após o login, você verá o link "Área Administrativa" no menu superior
 3. Clique neste link para acessar o painel administrativo
